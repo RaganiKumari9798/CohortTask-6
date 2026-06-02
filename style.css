@@ -1,22 +1,24 @@
 @font-face {
     font-family: Reckless;
-    src: url(/fonts/RecklessCondensedS-TRIAL-Book.woff);
+    src: url("./fonts/RecklessCondensedS-TRIAL-Book.woff");
 }
 
 @font-face {
     font-family: Figtree;
-    src: url(/fonts/figtree_n4.3c0838aba1701047e60be6a99a1b0a40ce9b8419.woff2);
+    src: url("./fonts/figtree_n4.3c0838aba1701047e60be6a99a1b0a40ce9b8419.woff2");
 }
 
 @font-face {
-    font-family:  Midnight;
-    src: url(/fonts/midnight-sans-rd-12-medium-trial.otf);
+    font-family: Midnight;
+    src: url("./fonts/midnight-sans-rd-12-medium-trial.otf");
 }
 
-@font-face{
+@font-face {
     font-family: Robot;
-    src: url(fonts/RobotoMono-Regular.ttf);
+    src: url("./fonts/RobotoMono-Regular.ttf");
 }
+
+
 *{
   margin: 0;
   padding: 0;
@@ -31,9 +33,6 @@ main{
     width: 100%;
     min-height: 100vh;
     background-color: #FBF9EB;
-   
- 
-
 }
 .nav-top.hide{
     display: none;
