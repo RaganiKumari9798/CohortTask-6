@@ -143,10 +143,10 @@ Two-Leaves-Tea-Clone/
 
 This website is optimized for:
 
--💻 Desktop
--💻 Laptop
--📱 Mobile Devices
--📟 Tablets
+- 💻 Desktop
+- 💻 Laptop
+- 📱 Mobile Devices
+- 📟 Tablets
 
 ---
 ## 📚 What I Learned
